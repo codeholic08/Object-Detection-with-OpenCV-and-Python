@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import cv2
 
 face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
